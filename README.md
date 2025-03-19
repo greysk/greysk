@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My public, personally created repositories include:
+
+- [graeScripts](https://github.com/greysk/graeScripts): My first public repository made as a 'catch-all' collection of Python scripts I wrote for myself.
+- collegeWork (coming soon): A public version of my private notes and projects associated with obtaining my Bachelors Degree in Computer Science.
+
 <!--
 **greysk/greysk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
